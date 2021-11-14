@@ -15,6 +15,18 @@
 		D94B4D8A273F164C004C0433 /* LoadingPageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4D89273F164C004C0433 /* LoadingPageController.swift */; };
 		D94B4D8F273F265B004C0433 /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4D8E273F265B004C0433 /* UIColor.swift */; };
 		D94B4D91273F5BA1004C0433 /* HomePageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4D90273F5BA1004C0433 /* HomePageController.swift */; };
+		D94B4D98274060EE004C0433 /* SearchRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4D97274060EE004C0433 /* SearchRequest.swift */; };
+		D94B4D9A27406311004C0433 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4D9927406311004C0433 /* City.swift */; };
+		D94B4D9C274064AC004C0433 /* SearchResultsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4D9B274064AC004C0433 /* SearchResultsCell.swift */; };
+		D94B4D9E274067EE004C0433 /* UITableVIewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4D9D274067EE004C0433 /* UITableVIewCell.swift */; };
+		D94B4DA02740727C004C0433 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4D9F2740727C004C0433 /* Array.swift */; };
+		D94B4DA22740768E004C0433 /* FavoritesStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4DA12740768E004C0433 /* FavoritesStorage.swift */; };
+		D94B4DA42740A49F004C0433 /* DetailsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4DA32740A49F004C0433 /* DetailsController.swift */; };
+		D94B4DAC2740B8FC004C0433 /* WeatherDetailCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4DAB2740B8FC004C0433 /* WeatherDetailCell.swift */; };
+		D94B4DAE2740BB0A004C0433 /* CurrentWeatherCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4DAD2740BB0A004C0433 /* CurrentWeatherCell.swift */; };
+		D94B4DB02740C659004C0433 /* DetailsRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4DAF2740C659004C0433 /* DetailsRequest.swift */; };
+		D94B4DB22740C6D6004C0433 /* CityDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4DB12740C6D6004C0433 /* CityDetails.swift */; };
+		D94B4DB4274145F3004C0433 /* CALayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D94B4DB3274145F3004C0433 /* CALayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +42,18 @@
 		D94B4D89273F164C004C0433 /* LoadingPageController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingPageController.swift; sourceTree = "<group>"; };
 		D94B4D8E273F265B004C0433 /* UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
 		D94B4D90273F5BA1004C0433 /* HomePageController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageController.swift; sourceTree = "<group>"; };
+		D94B4D97274060EE004C0433 /* SearchRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchRequest.swift; sourceTree = "<group>"; };
+		D94B4D9927406311004C0433 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
+		D94B4D9B274064AC004C0433 /* SearchResultsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsCell.swift; sourceTree = "<group>"; };
+		D94B4D9D274067EE004C0433 /* UITableVIewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableVIewCell.swift; sourceTree = "<group>"; };
+		D94B4D9F2740727C004C0433 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		D94B4DA12740768E004C0433 /* FavoritesStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesStorage.swift; sourceTree = "<group>"; };
+		D94B4DA32740A49F004C0433 /* DetailsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsController.swift; sourceTree = "<group>"; };
+		D94B4DAB2740B8FC004C0433 /* WeatherDetailCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailCell.swift; sourceTree = "<group>"; };
+		D94B4DAD2740BB0A004C0433 /* CurrentWeatherCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherCell.swift; sourceTree = "<group>"; };
+		D94B4DAF2740C659004C0433 /* DetailsRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsRequest.swift; sourceTree = "<group>"; };
+		D94B4DB12740C6D6004C0433 /* CityDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityDetails.swift; sourceTree = "<group>"; };
+		D94B4DB3274145F3004C0433 /* CALayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CALayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +109,10 @@
 				D94B4D75273F01FB004C0433 /* AppDelegate.swift */,
 				D94B4D77273F01FB004C0433 /* SceneDelegate.swift */,
 				D94B4D89273F164C004C0433 /* LoadingPageController.swift */,
-				D94B4D90273F5BA1004C0433 /* HomePageController.swift */,
+				D94B4DA52740B87E004C0433 /* Home */,
+				D94B4DA72740B8B1004C0433 /* Details */,
+				D94B4DB727415CDB004C0433 /* LocalStorage */,
+				D94B4DB527415CB4004C0433 /* API */,
 				D94B4D8D273F263B004C0433 /* Extensions */,
 				D94B4D7E273F01FC004C0433 /* Assets.xcassets */,
 				D94B4D80273F01FC004C0433 /* LaunchScreen.storyboard */,
@@ -98,8 +125,73 @@
 			isa = PBXGroup;
 			children = (
 				D94B4D8E273F265B004C0433 /* UIColor.swift */,
+				D94B4D9D274067EE004C0433 /* UITableVIewCell.swift */,
+				D94B4D9F2740727C004C0433 /* Array.swift */,
+				D94B4DB3274145F3004C0433 /* CALayer.swift */,
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		D94B4DA52740B87E004C0433 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				D94B4D90273F5BA1004C0433 /* HomePageController.swift */,
+				D94B4DA62740B898004C0433 /* Cells */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		D94B4DA62740B898004C0433 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				D94B4D9B274064AC004C0433 /* SearchResultsCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		D94B4DA72740B8B1004C0433 /* Details */ = {
+			isa = PBXGroup;
+			children = (
+				D94B4DA32740A49F004C0433 /* DetailsController.swift */,
+				D94B4DAA2740B8D6004C0433 /* Cells */,
+			);
+			path = Details;
+			sourceTree = "<group>";
+		};
+		D94B4DAA2740B8D6004C0433 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				D94B4DAB2740B8FC004C0433 /* WeatherDetailCell.swift */,
+				D94B4DAD2740BB0A004C0433 /* CurrentWeatherCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		D94B4DB527415CB4004C0433 /* API */ = {
+			isa = PBXGroup;
+			children = (
+				D94B4DAF2740C659004C0433 /* DetailsRequest.swift */,
+				D94B4D97274060EE004C0433 /* SearchRequest.swift */,
+				D94B4DB627415CCA004C0433 /* Models */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		D94B4DB627415CCA004C0433 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D94B4D9927406311004C0433 /* City.swift */,
+				D94B4DB12740C6D6004C0433 /* CityDetails.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D94B4DB727415CDB004C0433 /* LocalStorage */ = {
+			isa = PBXGroup;
+			children = (
+				D94B4DA12740768E004C0433 /* FavoritesStorage.swift */,
+			);
+			path = LocalStorage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -216,11 +308,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D94B4D9E274067EE004C0433 /* UITableVIewCell.swift in Sources */,
+				D94B4DB02740C659004C0433 /* DetailsRequest.swift in Sources */,
+				D94B4DA02740727C004C0433 /* Array.swift in Sources */,
 				D94B4D76273F01FB004C0433 /* AppDelegate.swift in Sources */,
+				D94B4D98274060EE004C0433 /* SearchRequest.swift in Sources */,
+				D94B4DA42740A49F004C0433 /* DetailsController.swift in Sources */,
+				D94B4D9C274064AC004C0433 /* SearchResultsCell.swift in Sources */,
 				D94B4D91273F5BA1004C0433 /* HomePageController.swift in Sources */,
 				D94B4D8F273F265B004C0433 /* UIColor.swift in Sources */,
+				D94B4DB4274145F3004C0433 /* CALayer.swift in Sources */,
 				D94B4D78273F01FB004C0433 /* SceneDelegate.swift in Sources */,
 				D94B4D8A273F164C004C0433 /* LoadingPageController.swift in Sources */,
+				D94B4DB22740C6D6004C0433 /* CityDetails.swift in Sources */,
+				D94B4DAE2740BB0A004C0433 /* CurrentWeatherCell.swift in Sources */,
+				D94B4DAC2740B8FC004C0433 /* WeatherDetailCell.swift in Sources */,
+				D94B4D9A27406311004C0433 /* City.swift in Sources */,
+				D94B4DA22740768E004C0433 /* FavoritesStorage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -369,7 +473,7 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -398,7 +502,7 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
